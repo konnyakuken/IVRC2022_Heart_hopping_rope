@@ -15,7 +15,7 @@ public class Anim : MonoBehaviour
     {
         if(Input.GetKey(KeyCode.Space))
         {
-            animator.SetTrigger("IsJumpin");
+            animator.SetTrigger("IsJumpIn");
         }
     }
 }
