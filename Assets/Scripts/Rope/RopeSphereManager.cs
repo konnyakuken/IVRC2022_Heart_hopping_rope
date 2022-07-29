@@ -15,6 +15,6 @@ public class RopeSphereManager : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        ropeRotateManager.OnHitLope();
+        ropeRotateManager.HitLope();
     }
 }
