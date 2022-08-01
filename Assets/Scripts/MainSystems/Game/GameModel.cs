@@ -22,6 +22,10 @@ public class GameModel : MonoBehaviour
         OnSetRopeSpeed?.Invoke(0.0f);
     }
 
+    /// <summary>
+    /// ロープのスピード制御
+    /// </summary>
+    /// <param name="beat"></param>
     public void OnChangeHeartBeat(float beat)
     {
         Debug.Log("beat:" + beat);
