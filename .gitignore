@@ -37,6 +37,8 @@ ExportedObj/
 *.booproj
 *.tmp
 *.pdb
+*.dll
+*.onnx
 
 # ============ #
 # OS generated #

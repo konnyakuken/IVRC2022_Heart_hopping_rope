@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.heart_hopping_rope.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\ivrc\\Unity\\IVRC\\IVRC2022_Heart_hopping_rope\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "heart_hopping_rope [Testing]"
+        }
+      }
+    }
+  ]
+}
